@@ -1,5 +1,5 @@
-<img src="/src/assets/Screenshot 2026-06-26 225838.png" alt="App Screenshot" width="400">
-<img src="/src/assets/Screenshot 2026-06-26 225852.png" alt="App Screenshot" width="400">
+<img src="/src/assets/Screenshot 2026-06-26 225838.png" alt="App Screenshot" width="200">
+<img src="/src/assets/Screenshot 2026-06-26 225852.png" alt="App Screenshot" width="200">
 # Quiz Game
 
 Site visit: https://quiz2u.netlify.app/
